@@ -1,0 +1,11 @@
+import React from 'react'
+
+function ArrowLineIcon() {
+  return (
+    <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M15 2.25L8.72613 3.93108L13.3189 8.52387L15 2.25ZM1.85225 14.6023C1.63258 14.8219 1.63258 15.1781 1.85225 15.3977C2.07192 15.6174 2.42808 15.6174 2.64775 15.3977L1.85225 14.6023ZM11.0225 5.43198L1.85225 14.6023L2.64775 15.3977L11.818 6.22748L11.0225 5.43198Z" fill="#3B7ABF"/>
+</svg>
+  )
+}
+
+export default ArrowLineIcon

@@ -1,0 +1,26 @@
+.player--card {
+    --moving-speed: 500ms;
+    --delay-speed: 100ms;
+    transition: width var(--moving-speed) linear,
+      flex-basis var(--moving-speed) linear;
+  }
+  
+  
+  /* Members Table */
+  .members--table{
+    
+  }
+  .members--table tbody tr:nth-child(even){
+    background-color: #f4f4f4;
+  }
+
+  /* Create Play CSS */
+  .create-play-form .play-size-fields div.active {
+    background-color: #ECF2F9;
+    border-color: var(--colorThemePrimary);
+  }
+  .create-play-form .field-type-fields div.active {
+    background-color: #ECF2F9;
+    border-color: var(--colorThemePrimary);
+    color:var(--colorThemePrimary);
+  }

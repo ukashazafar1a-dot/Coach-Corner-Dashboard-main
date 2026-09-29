@@ -1,0 +1,373 @@
+[
+    {
+        "id": 1,
+        "name": "Offense",
+        "description": "Football Play Metadata: Offense",
+        "tag_categories": [
+            {
+                "id": 34,
+                "name": "Yardline",
+                "abbreviated_label": "YL",
+                "print_width": "50",
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 1,
+                    "tag_category_id": 34,
+                    "order": 0
+                }
+            },
+            {
+                "id": 35,
+                "name": "Hash",
+                "abbreviated_label": "H",
+                "print_width": "50",
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 1,
+                    "tag_category_id": 35,
+                    "order": 1
+                }
+            },
+            {
+                "id": 36,
+                "name": "Personnel",
+                "abbreviated_label": "PER",
+                "print_width": "75",
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 1,
+                    "tag_category_id": 36,
+                    "order": 2
+                }
+            },
+            {
+                "id": 37,
+                "name": "Motion/Shift",
+                "abbreviated_label": "MO/SH",
+                "print_width": "100",
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 1,
+                    "tag_category_id": 37,
+                    "order": 3
+                }
+            },
+            {
+                "id": 11,
+                "name": "Formation",
+                "abbreviated_label": "FORMATION",
+                "print_width": null,
+                "user_id": null,
+                "created_at": "2021-03-26T19:10:37.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 1,
+                    "tag_category_id": 11,
+                    "order": 4
+                }
+            },
+            {
+                "id": 38,
+                "name": "Play Name",
+                "abbreviated_label": "PLAY",
+                "print_width": "200",
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 1,
+                    "tag_category_id": 38,
+                    "order": 5
+                }
+            },
+            {
+                "id": 39,
+                "name": "Def Front",
+                "abbreviated_label": "DEF FR",
+                "print_width": "100",
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 1,
+                    "tag_category_id": 39,
+                    "order": 6
+                }
+            },
+            {
+                "id": 40,
+                "name": "Def Coverage",
+                "abbreviated_label": "DEF COV",
+                "print_width": "100",
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 1,
+                    "tag_category_id": 40,
+                    "order": 7
+                }
+            },
+            {
+                "id": 41,
+                "name": "Notes",
+                "abbreviated_label": "NOTES",
+                "print_width": null,
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 1,
+                    "tag_category_id": 41,
+                    "order": 8
+                }
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Defense",
+        "description": "Football Play Metadata: Defense",
+        "tag_categories": [
+            {
+                "id": 34,
+                "name": "Yardline",
+                "abbreviated_label": "YL",
+                "print_width": "50",
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 2,
+                    "tag_category_id": 34,
+                    "order": 0
+                }
+            },
+            {
+                "id": 35,
+                "name": "Hash",
+                "abbreviated_label": "H",
+                "print_width": "50",
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 2,
+                    "tag_category_id": 35,
+                    "order": 1
+                }
+            },
+            {
+                "id": 36,
+                "name": "Personnel",
+                "abbreviated_label": "PER",
+                "print_width": "75",
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 2,
+                    "tag_category_id": 36,
+                    "order": 2
+                }
+            },
+            {
+                "id": 18,
+                "name": "Front",
+                "abbreviated_label": "FRONT",
+                "print_width": null,
+                "user_id": null,
+                "created_at": "2021-03-26T19:10:41.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 2,
+                    "tag_category_id": 18,
+                    "order": 3
+                }
+            },
+            {
+                "id": 42,
+                "name": "Stunt/Pressure",
+                "abbreviated_label": "ST/PR",
+                "print_width": "75",
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 2,
+                    "tag_category_id": 42,
+                    "order": 4
+                }
+            },
+            {
+                "id": 20,
+                "name": "Coverage",
+                "abbreviated_label": "COV",
+                "print_width": null,
+                "user_id": null,
+                "created_at": "2021-03-26T19:10:41.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 2,
+                    "tag_category_id": 20,
+                    "order": 5
+                }
+            },
+            {
+                "id": 11,
+                "name": "Formation",
+                "abbreviated_label": "FORMATION",
+                "print_width": null,
+                "user_id": null,
+                "created_at": "2021-03-26T19:10:37.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 2,
+                    "tag_category_id": 11,
+                    "order": 6
+                }
+            },
+            {
+                "id": 38,
+                "name": "Play Name",
+                "abbreviated_label": "PLAY",
+                "print_width": "200",
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 2,
+                    "tag_category_id": 38,
+                    "order": 7
+                }
+            },
+            {
+                "id": 41,
+                "name": "Notes",
+                "abbreviated_label": "NOTES",
+                "print_width": null,
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 2,
+                    "tag_category_id": 41,
+                    "order": 8
+                }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Special Teams",
+        "description": "Football Play Metadata: Special Teams",
+        "tag_categories": [
+            {
+                "id": 43,
+                "name": "Special Teams Unit",
+                "abbreviated_label": "ST UNIT",
+                "print_width": "125",
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:21.000000Z",
+                "updated_at": "2022-06-08T04:15:21.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 3,
+                    "tag_category_id": 43,
+                    "order": 0
+                }
+            },
+            {
+                "id": 34,
+                "name": "Yardline",
+                "abbreviated_label": "YL",
+                "print_width": "50",
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 3,
+                    "tag_category_id": 34,
+                    "order": 1
+                }
+            },
+            {
+                "id": 35,
+                "name": "Hash",
+                "abbreviated_label": "H",
+                "print_width": "50",
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 3,
+                    "tag_category_id": 35,
+                    "order": 2
+                }
+            },
+            {
+                "id": 44,
+                "name": "Special Teams Formation",
+                "abbreviated_label": "ST FORMATION",
+                "print_width": null,
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:21.000000Z",
+                "updated_at": "2022-06-08T04:15:21.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 3,
+                    "tag_category_id": 44,
+                    "order": 3
+                }
+            },
+            {
+                "id": 45,
+                "name": "Special Teams Call",
+                "abbreviated_label": "ST CALL",
+                "print_width": null,
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:21.000000Z",
+                "updated_at": "2022-06-08T04:15:21.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 3,
+                    "tag_category_id": 45,
+                    "order": 4
+                }
+            },
+            {
+                "id": 46,
+                "name": "Scout Look",
+                "abbreviated_label": "SCOUT LOOK",
+                "print_width": null,
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:21.000000Z",
+                "updated_at": "2022-06-08T04:15:21.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 3,
+                    "tag_category_id": 46,
+                    "order": 5
+                }
+            },
+            {
+                "id": 41,
+                "name": "Notes",
+                "abbreviated_label": "NOTES",
+                "print_width": null,
+                "user_id": null,
+                "created_at": "2022-06-08T04:15:20.000000Z",
+                "updated_at": "2022-06-08T04:15:20.000000Z",
+                "pivot": {
+                    "tag_category_set_id": 3,
+                    "tag_category_id": 41,
+                    "order": 6
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Defensive Player</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Defensive-Player">
+            <rect id="boundaries" x="0" y="0" width="50" height="50"></rect>
+            <text id="E" font-family="Arial-Black, Arial Black" font-size="22" font-weight="700" fill="#000000">
+                <tspan x="17" y="33">E</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

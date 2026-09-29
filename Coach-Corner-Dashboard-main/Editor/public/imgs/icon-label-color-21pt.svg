@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-label-color-21pt</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="FDPB-PE-Icons-Sprites-v01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-167.000000, -167.000000)" id="PE-UI">
+            <g>
+                <g id="PROPERTIES" transform="translate(0.000000, 50.000000)">
+                    <g id="PLAYER" transform="translate(0.000000, 100.000000)">
+                        <g id="LABEL">
+                            <g id="icon-label-color-21pt" transform="translate(150.000000, 0.000000)">
+                                <rect id="boundaries" fill-rule="nonzero" x="0" y="0" width="50" height="50"></rect>
+                                <path d="M17.4772727,33 C17.35606,33 17.2462126,32.9504767 17.1477273,32.8514286 C17.0492419,32.7523805 17,32.6419054 17,32.52 C17,32.428571 17.0075757,32.3600002 17.0227273,32.3142857 L22.3181818,17.6628571 C22.4696977,17.2209502 22.772725,17 23.2272727,17 L26.7727273,17 C27.227275,17 27.5303023,17.2209502 27.6818182,17.6628571 L32.9772727,32.3142857 C32.9924243,32.3600002 33,32.428571 33,32.52 C33,32.6419054 32.9507581,32.7523805 32.8522727,32.8514286 C32.7537874,32.9504767 32.64394,33 32.5227273,33 L29.5681818,33 C29.2045436,33 28.9469705,32.8323826 28.7954545,32.4971429 L27.9772727,30.28 L22.0227273,30.28 L21.2045455,32.4971429 C21.0530295,32.8323826 20.7954564,33 20.4318182,33 L17.4772727,33 Z M22.9772727,26.8514286 L27.0227273,26.8514286 L25,21.0228571 L22.9772727,26.8514286 Z" fill="#000000"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

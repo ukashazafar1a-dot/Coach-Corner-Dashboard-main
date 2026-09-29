@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-outline-thick-circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="FDPB-PE-Icons-Sprites-v01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-362.000000, -212.000000)" fill-rule="nonzero" id="PE-UI">
+            <g>
+                <g id="PROPERTIES" transform="translate(0.000000, 50.000000)">
+                    <g id="PLAYER" transform="translate(0.000000, 100.000000)">
+                        <g id="OUTLINES" transform="translate(250.000000, 50.000000)">
+                            <g id="icon-outline-thick-circle" transform="translate(100.000000, 0.000000)">
+                                <rect id="boundaries" x="0" y="0" width="50" height="50"></rect>
+                                <path d="M25,38 C17.8202983,38 12,32.1797017 12,25 C12,17.8202983 17.8202983,12 25,12 C32.1797017,12 38,17.8202983 38,25 C38,32.1797017 32.1797017,38 25,38 Z M25,32 C28.8659932,32 32,28.8659932 32,25 C32,21.1340068 28.8659932,18 25,18 C21.1340068,18 18,21.1340068 18,25 C18,28.8659932 21.1340068,32 25,32 Z" fill="#000000"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

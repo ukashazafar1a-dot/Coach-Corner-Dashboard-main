@@ -1,0 +1,11 @@
+<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cone</title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cone" fill="#F0853F">
+            <rect id="Rectangle" x="0" y="18.5189873" width="20" height="3.48101266"></rect>
+            <polygon id="Rectangle" points="9.25 0 10.75 0 12.5625 18.7974684 7.25 18.5189873"></polygon>
+            <polygon id="Triangle" points="9.25 3.08403092e-15 9.25 18.5189873 3.25 18.5189873"></polygon>
+            <polygon id="Triangle" transform="translate(13.625000, 9.259494) scale(-1, 1) translate(-13.625000, -9.259494) " points="16.625 3.08403092e-15 16.625 18.5189873 10.625 18.5189873"></polygon>
+        </g>
+    </g>
+</svg>

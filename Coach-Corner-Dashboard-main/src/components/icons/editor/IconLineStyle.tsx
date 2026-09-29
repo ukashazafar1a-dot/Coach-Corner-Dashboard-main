@@ -1,0 +1,22 @@
+import React from "react";
+
+const IconLineStyle = () => {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="24"
+      height="7"
+      viewBox="0 0 24 7"
+      fill="none"
+    >
+      <path
+        fillRule="evenodd"
+        clipRule="evenodd"
+        d="M1.44368 0L0 1.66155L4.15277 5.27073L5.81321 6.71441L7.25689 5.05286L8.95145 3.10522L11.4427 5.27073L13.1042 6.71441L14.5468 5.05286L16.2391 3.10632L18.7293 5.27073L20.3908 6.71441L21.8334 5.05286L24 2.56164L22.3385 1.11797L20.1729 3.60919L16.0202 0L14.5765 1.66155H14.5787L12.8863 3.60919L8.73357 0L7.76195 1.11797L5.59644 3.60919L1.44368 0Z"
+        fill="black"
+      />
+    </svg>
+  );
+};
+
+export default IconLineStyle;

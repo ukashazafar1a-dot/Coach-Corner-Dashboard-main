@@ -1,0 +1,32 @@
+[
+    {
+        "id": 3,
+        "name": "Upload New Video",
+        "allow_url": 0,
+        "allow_code": 0,
+        "allow_upload": 1,
+        "icon": null,
+        "created_at": "2023-02-02T19:56:11.000000Z",
+        "updated_at": "2023-02-02T19:56:11.000000Z"
+    },
+    {
+        "id": 1,
+        "name": "Youtube",
+        "allow_url": 1,
+        "allow_code": 1,
+        "allow_upload": 0,
+        "icon": null,
+        "created_at": "2021-07-01T14:49:00.000000Z",
+        "updated_at": "2023-02-02T19:56:11.000000Z"
+    },
+    {
+        "id": 2,
+        "name": "Hudl Highlight",
+        "allow_url": 0,
+        "allow_code": 1,
+        "allow_upload": 0,
+        "icon": null,
+        "created_at": "2021-07-01T14:49:00.000000Z",
+        "updated_at": "2023-02-02T19:56:11.000000Z"
+    }
+]

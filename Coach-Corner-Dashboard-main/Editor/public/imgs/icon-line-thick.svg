@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="6px" viewBox="0 0 40 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-line-thick</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="FDPB-PE-Icons-Sprites-v01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-105.000000, -372.000000)" fill-rule="nonzero" id="PE-UI">
+            <g>
+                <g id="PROPERTIES" transform="translate(0.000000, 50.000000)">
+                    <g id="LINE" transform="translate(0.000000, 200.000000)">
+                        <g id="THICKNESS" transform="translate(0.000000, 100.000000)">
+                            <g id="icon-line-thick" transform="translate(100.000000, 0.000000)">
+                                <rect id="boundaries" x="0" y="0" width="50" height="50"></rect>
+                                <polygon fill="#000000" points="5 28 5 22 45 22 45 28"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

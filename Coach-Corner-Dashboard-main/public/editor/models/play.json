@@ -1,0 +1,148 @@
+{
+    "id": 931372,
+    "name": "farhan",
+    "user_id": 18801,
+    "orientation": 0,
+    "sports_field_id": 11,
+    "product_id": 1,
+    "tag_category_set_id": null,
+    "play_json": "{\"1\": \"[\\\"Layer\\\",{\\\"name\\\":\\\"MAIN_LAYER\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"LineOfScrimmagePosition\\\":187.5,\\\"LineOfScrimmageVisible\\\":false,\\\"savedAtZoomLevel\\\":1,\\\"savedAtCenterX\\\":500,\\\"savedAtCenterY\\\":375,\\\"FLIPPED\\\":true},\\\"children\\\":[[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[300,120],\\\"data\\\":{\\\"fdpbType\\\":\\\"PLAYER_OBJECT\\\"},\\\"children\\\":[[\\\"Group\\\",{\\\"name\\\":\\\"handlesGroup\\\",\\\"applyMatrix\\\":true,\\\"visible\\\":false,\\\"data\\\":{\\\"groupName\\\":\\\"handlesGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"routesGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"routesGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"knobsGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"knobsGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"endSymbolsGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"endSymbolsGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"insertsGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"insertsGroup\\\"}}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[300,120],\\\"data\\\":{\\\"fdpbType\\\":\\\"PLAYER_SYMBOL\\\",\\\"customStyle\\\":{\\\"fillColor\\\":\\\"#FFFFFF\\\",\\\"strokeColor\\\":\\\"#000000\\\",\\\"strokeWidth\\\":4,\\\"strokeJoin\\\":\\\"miter\\\",\\\"strokeCap\\\":\\\"flat\\\",\\\"fontSize\\\":17,\\\"fontFamily\\\":\\\"Rubik\\\",\\\"fontWeight\\\":\\\"bold\\\",\\\"shadowStyle\\\":\\\"NONE\\\",\\\"textColor\\\":\\\"#000000\\\",\\\"shapeType\\\":\\\"ELIPSE\\\",\\\"text\\\":\\\"\\\",\\\"playerShapeWidth\\\":30,\\\"playerShapeHeight\\\":20,\\\"defaultDistanceBetweenPlayers\\\":4}},\\\"children\\\":[[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"segments\\\":[[[287,120],[0,7.1797],[0,-7.1797]],[[300,107],[-7.1797,0],[7.1797,0]],[[313,120],[0,-7.1797],[0,7.1797]],[[300,133],[7.1797,0],[-7.1797,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1,0.01],\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\"}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"children\\\":[[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[300,120],\\\"segments\\\":[[[283,120],[0,6.62742],[0,-6.62742]],[[300,108],[-9.38884,0],[9.38884,0]],[[317,120],[0,-6.62742],[0,6.62742]],[[300,132],[9.38884,0],[-9.38884,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1],\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\"}],[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[300,120],\\\"segments\\\":[[[283,120],[0,6.62742],[0,-6.62742]],[[300,108],[-9.38884,0],[9.38884,0]],[[317,120],[0,-6.62742],[0,6.62742]],[[300,132],[9.38884,0],[-9.38884,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1],\\\"strokeColor\\\":[0,0,0],\\\"strokeWidth\\\":4,\\\"strokeCap\\\":\\\"round\\\",\\\"dashArray\\\":null}]]}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"children\\\":[[\\\"PointText\\\",{\\\"applyMatrix\\\":false,\\\"matrix\\\":[1,0,0,1,300,126.1],\\\"pivot\\\":[0,-6.1],\\\"content\\\":\\\" \\\",\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\",\\\"fontFamily\\\":\\\"Rubik\\\",\\\"fontWeight\\\":\\\"bold\\\",\\\"fontSize\\\":17,\\\"leading\\\":20.4,\\\"justification\\\":\\\"center\\\"}]]}]]}]]}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[375,130],\\\"data\\\":{\\\"fdpbType\\\":\\\"PLAYER_OBJECT\\\"},\\\"children\\\":[[\\\"Group\\\",{\\\"name\\\":\\\"handlesGroup\\\",\\\"applyMatrix\\\":true,\\\"visible\\\":false,\\\"data\\\":{\\\"groupName\\\":\\\"handlesGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"routesGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"routesGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"knobsGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"knobsGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"endSymbolsGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"endSymbolsGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"insertsGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"insertsGroup\\\"}}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[375,130],\\\"data\\\":{\\\"fdpbType\\\":\\\"PLAYER_SYMBOL\\\",\\\"customStyle\\\":{\\\"fillColor\\\":\\\"#FFFFFF\\\",\\\"strokeColor\\\":\\\"#000000\\\",\\\"strokeWidth\\\":4,\\\"strokeJoin\\\":\\\"miter\\\",\\\"strokeCap\\\":\\\"flat\\\",\\\"fontSize\\\":17,\\\"fontFamily\\\":\\\"Rubik\\\",\\\"fontWeight\\\":\\\"bold\\\",\\\"shadowStyle\\\":\\\"NONE\\\",\\\"textColor\\\":\\\"#000000\\\",\\\"shapeType\\\":\\\"ELIPSE\\\",\\\"text\\\":\\\"\\\",\\\"playerShapeWidth\\\":30,\\\"playerShapeHeight\\\":20,\\\"defaultDistanceBetweenPlayers\\\":4}},\\\"children\\\":[[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"segments\\\":[[[362,130],[0,7.1797],[0,-7.1797]],[[375,117],[-7.1797,0],[7.1797,0]],[[388,130],[0,-7.1797],[0,7.1797]],[[375,143],[7.1797,0],[-7.1797,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1,0.01],\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\"}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"children\\\":[[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[375,130],\\\"segments\\\":[[[358,130],[0,6.62742],[0,-6.62742]],[[375,118],[-9.38884,0],[9.38884,0]],[[392,130],[0,-6.62742],[0,6.62742]],[[375,142],[9.38884,0],[-9.38884,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1],\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\"}],[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[375,130],\\\"segments\\\":[[[358,130],[0,6.62742],[0,-6.62742]],[[375,118],[-9.38884,0],[9.38884,0]],[[392,130],[0,-6.62742],[0,6.62742]],[[375,142],[9.38884,0],[-9.38884,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1],\\\"strokeColor\\\":[0,0,0],\\\"strokeWidth\\\":4,\\\"strokeCap\\\":\\\"round\\\",\\\"dashArray\\\":null}]]}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"children\\\":[[\\\"PointText\\\",{\\\"applyMatrix\\\":false,\\\"matrix\\\":[1,0,0,1,375,136.1],\\\"pivot\\\":[0,-6.1],\\\"content\\\":\\\" \\\",\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\",\\\"fontFamily\\\":\\\"Rubik\\\",\\\"fontWeight\\\":\\\"bold\\\",\\\"fontSize\\\":17,\\\"leading\\\":20.4,\\\"justification\\\":\\\"center\\\"}]]}]]}]]}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[365,305],\\\"data\\\":{\\\"fdpbType\\\":\\\"PLAYER_OBJECT\\\"},\\\"children\\\":[[\\\"Group\\\",{\\\"name\\\":\\\"handlesGroup\\\",\\\"applyMatrix\\\":true,\\\"visible\\\":false,\\\"data\\\":{\\\"groupName\\\":\\\"handlesGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"routesGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"routesGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"knobsGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"knobsGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"endSymbolsGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"endSymbolsGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"insertsGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"insertsGroup\\\"}}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[365,305],\\\"data\\\":{\\\"fdpbType\\\":\\\"PLAYER_SYMBOL\\\",\\\"customStyle\\\":{\\\"fillColor\\\":\\\"#FFFFFF\\\",\\\"strokeColor\\\":\\\"#000000\\\",\\\"strokeWidth\\\":4,\\\"strokeJoin\\\":\\\"miter\\\",\\\"strokeCap\\\":\\\"flat\\\",\\\"fontSize\\\":17,\\\"fontFamily\\\":\\\"Rubik\\\",\\\"fontWeight\\\":\\\"bold\\\",\\\"shadowStyle\\\":\\\"NONE\\\",\\\"textColor\\\":\\\"#000000\\\",\\\"shapeType\\\":\\\"ELIPSE\\\",\\\"text\\\":\\\"\\\",\\\"playerShapeWidth\\\":30,\\\"playerShapeHeight\\\":20,\\\"defaultDistanceBetweenPlayers\\\":4}},\\\"children\\\":[[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"segments\\\":[[[352,305],[0,7.1797],[0,-7.1797]],[[365,292],[-7.1797,0],[7.1797,0]],[[378,305],[0,-7.1797],[0,7.1797]],[[365,318],[7.1797,0],[-7.1797,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1,0.01],\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\"}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"children\\\":[[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[365,305],\\\"segments\\\":[[[348,305],[0,6.62742],[0,-6.62742]],[[365,293],[-9.38884,0],[9.38884,0]],[[382,305],[0,-6.62742],[0,6.62742]],[[365,317],[9.38884,0],[-9.38884,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1],\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\"}],[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[365,305],\\\"segments\\\":[[[348,305],[0,6.62742],[0,-6.62742]],[[365,293],[-9.38884,0],[9.38884,0]],[[382,305],[0,-6.62742],[0,6.62742]],[[365,317],[9.38884,0],[-9.38884,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1],\\\"strokeColor\\\":[0,0,0],\\\"strokeWidth\\\":4,\\\"strokeCap\\\":\\\"round\\\",\\\"dashArray\\\":null}]]}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"children\\\":[[\\\"PointText\\\",{\\\"applyMatrix\\\":false,\\\"matrix\\\":[1,0,0,1,365,311.1],\\\"pivot\\\":[0,-6.1],\\\"content\\\":\\\" \\\",\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\",\\\"fontFamily\\\":\\\"Rubik\\\",\\\"fontWeight\\\":\\\"bold\\\",\\\"fontSize\\\":17,\\\"leading\\\":20.4,\\\"justification\\\":\\\"center\\\"}]]}]]}]]}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[360,205],\\\"data\\\":{\\\"fdpbType\\\":\\\"PLAYER_OBJECT\\\"},\\\"children\\\":[[\\\"Group\\\",{\\\"name\\\":\\\"handlesGroup\\\",\\\"applyMatrix\\\":true,\\\"visible\\\":false,\\\"data\\\":{\\\"groupName\\\":\\\"handlesGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"routesGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"routesGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"knobsGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"knobsGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"endSymbolsGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"endSymbolsGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"insertsGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"insertsGroup\\\"}}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[360,205],\\\"data\\\":{\\\"fdpbType\\\":\\\"PLAYER_SYMBOL\\\",\\\"customStyle\\\":{\\\"fillColor\\\":\\\"#FFFFFF\\\",\\\"strokeColor\\\":\\\"#000000\\\",\\\"strokeWidth\\\":4,\\\"strokeJoin\\\":\\\"miter\\\",\\\"strokeCap\\\":\\\"flat\\\",\\\"fontSize\\\":17,\\\"fontFamily\\\":\\\"Rubik\\\",\\\"fontWeight\\\":\\\"bold\\\",\\\"shadowStyle\\\":\\\"NONE\\\",\\\"textColor\\\":\\\"#000000\\\",\\\"shapeType\\\":\\\"ELIPSE\\\",\\\"text\\\":\\\"\\\",\\\"playerShapeWidth\\\":30,\\\"playerShapeHeight\\\":20,\\\"defaultDistanceBetweenPlayers\\\":4}},\\\"children\\\":[[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"segments\\\":[[[347,205],[0,7.1797],[0,-7.1797]],[[360,192],[-7.1797,0],[7.1797,0]],[[373,205],[0,-7.1797],[0,7.1797]],[[360,218],[7.1797,0],[-7.1797,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1,0.01],\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\"}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"children\\\":[[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[360,205],\\\"segments\\\":[[[343,205],[0,6.62742],[0,-6.62742]],[[360,193],[-9.38884,0],[9.38884,0]],[[377,205],[0,-6.62742],[0,6.62742]],[[360,217],[9.38884,0],[-9.38884,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1],\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\"}],[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[360,205],\\\"segments\\\":[[[343,205],[0,6.62742],[0,-6.62742]],[[360,193],[-9.38884,0],[9.38884,0]],[[377,205],[0,-6.62742],[0,6.62742]],[[360,217],[9.38884,0],[-9.38884,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1],\\\"strokeColor\\\":[0,0,0],\\\"strokeWidth\\\":4,\\\"strokeCap\\\":\\\"round\\\",\\\"dashArray\\\":null}]]}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"children\\\":[[\\\"PointText\\\",{\\\"applyMatrix\\\":false,\\\"matrix\\\":[1,0,0,1,360,211.1],\\\"pivot\\\":[0,-6.1],\\\"content\\\":\\\" \\\",\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\",\\\"fontFamily\\\":\\\"Rubik\\\",\\\"fontWeight\\\":\\\"bold\\\",\\\"fontSize\\\":17,\\\"leading\\\":20.4,\\\"justification\\\":\\\"center\\\"}]]}]]}]]}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[525,320],\\\"data\\\":{\\\"fdpbType\\\":\\\"PLAYER_OBJECT\\\"},\\\"children\\\":[[\\\"Group\\\",{\\\"name\\\":\\\"handlesGroup\\\",\\\"applyMatrix\\\":true,\\\"visible\\\":false,\\\"data\\\":{\\\"groupName\\\":\\\"handlesGroup\\\"}}],[\\\"Group\\\",{\\\"name\\\":\\\"routesGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"routesGroup\\\"},\\\"children\\\":[[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"customStyles\\\":[{\\\"strokeColor\\\":\\\"#000000\\\",\\\"strokeWidth\\\":4,\\\"strokeStyle\\\":\\\"Solid\\\",\\\"customDashArray\\\":[2,10],\\\"strokeJoin\\\":\\\"miter\\\",\\\"strokeCap\\\":\\\"butt\\\",\\\"fillColor\\\":null}]},\\\"children\\\":[[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"isBranchingPath\\\":false},\\\"segments\\\":[[525,320],[452,210]],\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\"}],[\\\"Group\\\",{\\\"name\\\":\\\"displayPathsGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"displayPathsGroup\\\"},\\\"children\\\":[[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"segments\\\":[[525,320],[452,210]],\\\"strokeColor\\\":[0,0,0],\\\"strokeWidth\\\":4,\\\"dashArray\\\":[0,13.04508,1986.95492]}]]}],[\\\"Group\\\",{\\\"name\\\":\\\"displayCornersGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"displayCornersGroup\\\"},\\\"children\\\":[[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"children\\\":[[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"segments\\\":[[[450,210],[0,1.10457],[0,-1.10457]],[[452,208],[-1.10457,0],[1.10457,0]],[[454,210],[0,-1.10457],[0,1.10457]],[[452,212],[1.10457,0],[-1.10457,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[0,0,0],\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\"}]]}]]}]]}]]}],[\\\"Group\\\",{\\\"name\\\":\\\"knobsGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"knobsGroup\\\"},\\\"children\\\":[[\\\"Group\\\",{\\\"name\\\":\\\"knob\\\",\\\"applyMatrix\\\":true,\\\"opacity\\\":0,\\\"data\\\":{\\\"knobType\\\":\\\"SEGMENT\\\",\\\"fdpbType\\\":\\\"KNOB\\\",\\\"curveIndex\\\":0,\\\"routeIndex\\\":0,\\\"segmentIndex\\\":1},\\\"children\\\":[[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"children\\\":[[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"segments\\\":[[[439,210],[0,7.1797],[0,-7.1797]],[[452,197],[-7.1797,0],[7.1797,0]],[[465,210],[0,-7.1797],[0,7.1797]],[[452,223],[7.1797,0],[-7.1797,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1,0.01],\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\"}],[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"visible\\\":false,\\\"segments\\\":[[[448,210],[0,2.20914],[0,-2.20914]],[[452,206],[-2.20914,0],[2.20914,0]],[[456,210],[0,-2.20914],[0,2.20914]],[[452,214],[2.20914,0],[-2.20914,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1],\\\"strokeColor\\\":[0,0,0],\\\"strokeWidth\\\":4,\\\"strokeCap\\\":\\\"miter\\\"}]]}]]}]]}],[\\\"Group\\\",{\\\"name\\\":\\\"endSymbolsGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"endSymbolsGroup\\\"},\\\"children\\\":[[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"customStyle\\\":{\\\"symbolType\\\":\\\"TRIANGLE\\\",\\\"strokeCap\\\":\\\"butt\\\"},\\\"length\\\":26,\\\"symbolType\\\":\\\"TRIANGLE\\\",\\\"fdpbType\\\":\\\"END_SYMBOL\\\",\\\"routeIndex\\\":0,\\\"curveIndex\\\":0,\\\"lastAngle\\\":-123.5697},\\\"children\\\":[[\\\"Group\\\",{\\\"name\\\":\\\"shape\\\",\\\"applyMatrix\\\":true,\\\"pivot\\\":[452,210],\\\"data\\\":{\\\"filled\\\":true,\\\"strokeCap\\\":\\\"butt\\\"},\\\"children\\\":[[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"segments\\\":[[448.68229,205.00072],[450.04573,216.09761],[458.37787,210.5681]],\\\"closed\\\":true,\\\"fillColor\\\":[0,0,0],\\\"strokeColor\\\":[0,0,0],\\\"strokeWidth\\\":4}]]}],[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"segments\\\":[[[459.18836,220.83178],[5.98223,-3.97002],[-5.98223,3.97002]],[[441.16822,217.18836],[3.97002,5.98223],[-3.97002,-5.98223]],[[444.81164,199.16822],[-5.98223,3.97002],[5.98223,-3.97002]],[[462.83178,202.81164],[-3.97002,-5.98223],[3.97002,5.98223]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1,0.01],\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\"}]]}]]}],[\\\"Group\\\",{\\\"name\\\":\\\"insertsGroup\\\",\\\"applyMatrix\\\":true,\\\"data\\\":{\\\"groupName\\\":\\\"insertsGroup\\\"}}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[525,320],\\\"data\\\":{\\\"fdpbType\\\":\\\"PLAYER_SYMBOL\\\",\\\"customStyle\\\":{\\\"fillColor\\\":\\\"#FFFFFF\\\",\\\"strokeColor\\\":\\\"#000000\\\",\\\"strokeWidth\\\":4,\\\"strokeJoin\\\":\\\"miter\\\",\\\"strokeCap\\\":\\\"flat\\\",\\\"fontSize\\\":17,\\\"fontFamily\\\":\\\"Rubik\\\",\\\"fontWeight\\\":\\\"bold\\\",\\\"shadowStyle\\\":\\\"NONE\\\",\\\"textColor\\\":\\\"#000000\\\",\\\"shapeType\\\":\\\"ELIPSE\\\",\\\"text\\\":\\\"\\\",\\\"playerShapeWidth\\\":30,\\\"playerShapeHeight\\\":20,\\\"defaultDistanceBetweenPlayers\\\":4}},\\\"children\\\":[[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"segments\\\":[[[512,320],[0,7.1797],[0,-7.1797]],[[525,307],[-7.1797,0],[7.1797,0]],[[538,320],[0,-7.1797],[0,7.1797]],[[525,333],[7.1797,0],[-7.1797,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1,0.01],\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\"}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"children\\\":[[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[525,320],\\\"segments\\\":[[[508,320],[0,6.62742],[0,-6.62742]],[[525,308],[-9.38884,0],[9.38884,0]],[[542,320],[0,-6.62742],[0,6.62742]],[[525,332],[9.38884,0],[-9.38884,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1],\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\"}],[\\\"Path\\\",{\\\"applyMatrix\\\":true,\\\"pivot\\\":[525,320],\\\"segments\\\":[[[508,320],[0,6.62742],[0,-6.62742]],[[525,308],[-9.38884,0],[9.38884,0]],[[542,320],[0,-6.62742],[0,6.62742]],[[525,332],[9.38884,0],[-9.38884,0]]],\\\"closed\\\":true,\\\"fillColor\\\":[1,1,1],\\\"strokeColor\\\":[0,0,0],\\\"strokeWidth\\\":4,\\\"strokeCap\\\":\\\"round\\\",\\\"dashArray\\\":null}]]}],[\\\"Group\\\",{\\\"applyMatrix\\\":true,\\\"children\\\":[[\\\"PointText\\\",{\\\"applyMatrix\\\":false,\\\"matrix\\\":[1,0,0,1,525,326.1],\\\"pivot\\\":[0,-6.1],\\\"content\\\":\\\" \\\",\\\"strokeWidth\\\":0,\\\"strokeCap\\\":\\\"miter\\\",\\\"fontFamily\\\":\\\"Rubik\\\",\\\"fontWeight\\\":\\\"bold\\\",\\\"fontSize\\\":17,\\\"leading\\\":20.4,\\\"justification\\\":\\\"center\\\"}]]}]]}]]}]]}]\"}",
+    "number_of_frames": 1,
+    "published": 1,
+    "imported_at": null,
+    "images_updated_at": "2023-12-30 08:50:07",
+    "created_at": "2023-12-05T16:34:58.000000Z",
+    "updated_at": "12/30/23 @ 3:50 AM EST",
+    "deleted_at": null,
+    "is_community_play": false,
+    "requires_fdpb_watermark": 0,
+    "pngs": {
+        "1": {
+            "uf": "https://fdpb-3-plays.s3.amazonaws.com/plays/931372/04f9699528e2bf2db7fb1bfb588bad0d2539c465a436e7686818cd377155b6a4.png?ts=1703926851",
+            "ufw": "https://fdpb-3-plays.s3.amazonaws.com/plays/931372/31dce45df88b98178eb24efd500dc6d608fe08d6fa1b8c06d1f7f09f9ffa54b7.png?ts=1703926851",
+            "f": "https://fdpb-3-plays.s3.amazonaws.com/plays/931372/473ef518d21d933c4852582232bea587cbe59f50485d6db3ea28ce0f5c18ec9f.png?ts=1703926851",
+            "fw": "https://fdpb-3-plays.s3.amazonaws.com/plays/931372/2ee155c653a9cbb46d6268238bff6592a9c239676e1b657269d090a7686ef917.png?ts=1703926851"
+        }
+    },
+    "user_is_demoing": false,
+    "user_is_super_admin": false,
+    "user_can_add_to_playbook": true,
+    "user_can_create_variations": false,
+    "user_can_delete": true,
+    "user_can_download": true,
+    "user_can_duplicate": true,
+    "user_can_edit": true,
+    "user_can_publish": false,
+    "user_can_print": true,
+    "user_can_share": true,
+    "content_type": "App\\Play",
+    "has_videos": false,
+    "download_play_url": "https://firstdown.playbooktech.com/plays/931372/download",
+    "duplicate_play_url": "https://firstdown.playbooktech.com/plays/931372/duplicate",
+    "play_editor_url": "https://firstdown.playbooktech.com/plays/931372/editor",
+    "print_play_url": "https://firstdown.playbooktech.com/plays/931372/print?flip=false",
+    "view_play_url": "https://firstdown.playbooktech.com/plays/931372",
+    "is_locked": false,
+    "user_can_lock": false,
+    "product": {
+        "id": 1,
+        "name": "firstdown",
+        "display_name": "FirstDown PlayBook",
+        "support_email": "info@playbooktech.com",
+        "created_at": "2022-11-06T07:10:23.000000Z",
+        "updated_at": "2022-11-06T07:10:23.000000Z"
+    },
+    "sports_field": {
+        "id": 11,
+        "name": "High School Football Field - Mid-field",
+        "product_id": 1,
+        "img_orientation": 0,
+        "width": 1000,
+        "height": 750,
+        "active": 1,
+        "img_url": "./imgs/high-school-mid-field-landscape.svg",
+        "thumbnail_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/high-school-mid-field-landscape-thumbnail.png",
+        "thumbnail_2x_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/high-school-mid-field-landscape-thumbnail-2x.png",
+        "created_at": "2021-03-09T21:30:41.000000Z",
+        "updated_at": "2022-11-06T07:11:06.000000Z",
+        "product": {
+            "id": 1,
+            "name": "firstdown",
+            "display_name": "FirstDown PlayBook",
+            "support_email": "info@playbooktech.com",
+            "created_at": "2022-11-06T07:10:23.000000Z",
+            "updated_at": "2022-11-06T07:10:23.000000Z"
+        },
+        "tags": [
+            {
+                "id": 11,
+                "name": "High School",
+                "tag_category_id": 4,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 11,
+                    "tag_id": 11,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 19,
+                "name": "Mid-field",
+                "tag_category_id": 5,
+                "user_id": null,
+                "order": 5,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 11,
+                    "tag_id": 19,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Tackle Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 11,
+                    "tag_id": 2,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 1,
+                "name": "Flag Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 11,
+                    "tag_id": 1,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            }
+        ]
+    },
+    "play_groups": [],
+    "play_notes": [],
+    "community_tags": [],
+    "user_tags": [],
+    "videos": []
+}

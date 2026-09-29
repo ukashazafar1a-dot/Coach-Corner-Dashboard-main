@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-fill-shade-left-circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="FDPB-PE-Icons-Sprites-v01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-112.000000, -212.000000)" id="PE-UI">
+            <g>
+                <g id="PROPERTIES" transform="translate(0.000000, 50.000000)">
+                    <g id="PLAYER" transform="translate(0.000000, 100.000000)">
+                        <g id="FILLS" transform="translate(0.000000, 50.000000)">
+                            <g id="icon-fill-shade-left-circle" transform="translate(100.000000, 0.000000)">
+                                <rect id="boundaries" fill-rule="nonzero" x="0" y="0" width="50" height="50"></rect>
+                                <path d="M25,37 C18.372583,37 13,31.627417 13,25 C13,18.372583 18.372583,13 25,13 L25,37 Z M25,37 C31.627417,37 37,31.627417 37,25 C37,18.372583 31.627417,13 25,13 C18.372583,13 13,18.372583 13,25 C13,31.627417 18.372583,37 25,37 Z M25,38 C17.8202983,38 12,32.1797017 12,25 C12,17.8202983 17.8202983,12 25,12 C32.1797017,12 38,17.8202983 38,25 C38,32.1797017 32.1797017,38 25,38 Z" fill="#000000" opacity="0.25"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

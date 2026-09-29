@@ -1,0 +1,20 @@
+import React from "react";
+
+const IconLineCircle = () => {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="24"
+      height="24"
+      viewBox="0 0 24 24"
+      fill="none"
+    >
+      <path
+        d="M12 1.66667C9.05448 1.66667 6.66667 4.05448 6.66667 7C6.66667 9.94552 9.05448 12.3333 12 12.3333C14.9455 12.3333 17.3333 9.94552 17.3333 7C17.3333 4.05448 14.9455 1.66667 12 1.66667ZM11 7L11 22L13 22L13 7L11 7Z"
+        fill="black"
+      />
+    </svg>
+  );
+};
+
+export default IconLineCircle;

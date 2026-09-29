@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="32px" viewBox="0 0 28 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-handoff-medium</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="FDPB-PE-Icons-Sprites-v01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-511.000000, -309.000000)" fill-rule="nonzero" id="PE-UI">
+            <g>
+                <g id="PROPERTIES" transform="translate(0.000000, 50.000000)">
+                    <g id="LINE" transform="translate(0.000000, 200.000000)">
+                        <g id="INSERTS" transform="translate(0.000000, 50.000000)">
+                            <g id="icon-handoff-medium" transform="translate(500.000000, 0.000000)">
+                                <rect id="boundaries" x="0" y="0" width="50" height="50"></rect>
+                                <path d="M39,27 L39,31 L11,31 L11,27 L39,27 Z M39,19 L39,23 L11,23 L11,19 L39,19 Z M27,14 L23,14 L23,9 L27,9 L27,14 Z M27,41 L23,41 L23,36 L27,36 L27,41 Z" id="handoff-medium" fill="#000000"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

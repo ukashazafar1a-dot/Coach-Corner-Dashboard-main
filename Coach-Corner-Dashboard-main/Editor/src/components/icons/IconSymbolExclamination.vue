@@ -1,0 +1,46 @@
+<template>
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      xmlnsXlink="http://www.w3.org/1999/xlink"
+      width="6px"
+      height="24px"
+      viewBox="0 0 6 24"
+      version="1.1"
+    >
+      <defs />
+      <g
+        id="FDPB-PE-Icons-Sprites-v01"
+        stroke="none"
+        stroke-width="1"
+        fill="none"
+        fill-rule="evenodd"
+      >
+        <g transform="translate(-172.000000, -463.000000)" id="PE-UI">
+          <g>
+            <g id="PROPERTIES" transform="translate(0.000000, 50.000000)">
+              <g id="SYMBOL" transform="translate(0.000000, 400.000000)">
+                <g
+                  id="icon-symbol-exclamation"
+                  transform="translate(150.000000, 0.000000)"
+                >
+                  <rect
+                    id="boundaries"
+                    fill-rule="nonzero"
+                    x="0"
+                    y="0"
+                    width="50"
+                    height="50"
+                  />
+                  <path
+                    d="M27.999988,33.999994 C27.999988,34.8249924 27.7062388,35.5312407 27.1187398,36.1187398 C26.5312407,36.7062388 25.8249923,36.999988 24.999994,36.999988 C24.1749956,36.999988 23.4687473,36.7062388 22.8812482,36.1187398 C22.2937492,35.5312407 22,34.8249924 22,33.999994 C22,33.1749956 22.2937492,32.4687473 22.8812482,31.8812482 C23.4687473,31.2937492 24.1749956,31 24.999994,31 C25.8249923,31 26.5312407,31.2937492 27.1187398,31.8812482 C27.7062388,32.4687473 27.999988,33.1749956 27.999988,33.999994 Z M22,17 L22,13 L28,13 L28,17 L27,28 L26,29 L24,29 L23,28 L22,17 Z"
+                    id="Combined-Shape"
+                    fill="#D0021B"
+                  />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </svg>  
+</template>

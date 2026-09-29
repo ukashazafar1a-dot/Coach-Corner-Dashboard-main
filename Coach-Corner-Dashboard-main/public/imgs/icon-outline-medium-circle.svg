@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-outline-medium-circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="FDPB-PE-Icons-Sprites-v01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-313.000000, -213.000000)" fill-rule="nonzero" id="PE-UI">
+            <g>
+                <g id="PROPERTIES" transform="translate(0.000000, 50.000000)">
+                    <g id="PLAYER" transform="translate(0.000000, 100.000000)">
+                        <g id="OUTLINES" transform="translate(250.000000, 50.000000)">
+                            <g id="icon-outline-medium-circle" transform="translate(50.000000, 0.000000)">
+                                <rect id="boundaries" x="0" y="0" width="50" height="50"></rect>
+                                <path d="M25,37 C18.372583,37 13,31.627417 13,25 C13,18.372583 18.372583,13 25,13 C31.627417,13 37,18.372583 37,25 C37,31.627417 31.627417,37 25,37 Z M25,33 C29.418278,33 33,29.418278 33,25 C33,20.581722 29.418278,17 25,17 C20.581722,17 17,20.581722 17,25 C17,29.418278 20.581722,33 25,33 Z" fill="#000000"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

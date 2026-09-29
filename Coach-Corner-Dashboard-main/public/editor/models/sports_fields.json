@@ -1,0 +1,994 @@
+[
+    {
+        "id": 17,
+        "name": "College Football Field - Backed Up",
+        "product_id": 1,
+        "img_orientation": 0,
+        "width": 1000,
+        "height": 750,
+        "active": 1,
+        "img_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/college-backed-up-landscape.svg?ts=1703926851",
+        "thumbnail_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/college-backed-up-landscape-thumbnail.png",
+        "thumbnail_2x_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/college-backed-up-landscape-thumbnail-2x.png",
+        "created_at": "2021-03-09T21:30:41.000000Z",
+        "updated_at": "2022-11-06T07:11:06.000000Z",
+        "product": {
+            "id": 1,
+            "name": "firstdown",
+            "display_name": "FirstDown PlayBook",
+            "support_email": "info@playbooktech.com",
+            "created_at": "2022-11-06T07:10:23.000000Z",
+            "updated_at": "2022-11-06T07:10:23.000000Z"
+        },
+        "tags": [
+            {
+                "id": 12,
+                "name": "College",
+                "tag_category_id": 4,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 17,
+                    "tag_id": 12,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 15,
+                "name": "Backed Up",
+                "tag_category_id": 5,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 17,
+                    "tag_id": 15,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Tackle Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 17,
+                    "tag_id": 2,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 1,
+                "name": "Flag Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 17,
+                    "tag_id": 1,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "College Football Field - Blank",
+        "product_id": 1,
+        "img_orientation": 0,
+        "width": 1000,
+        "height": 750,
+        "active": 1,
+        "img_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/blank-landscape.svg?ts=1703926851",
+        "thumbnail_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/blank-landscape-thumbnail.png",
+        "thumbnail_2x_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/blank-landscape-thumbnail-2x.png",
+        "created_at": "2021-03-09T21:30:41.000000Z",
+        "updated_at": "2022-11-06T07:11:06.000000Z",
+        "product": {
+            "id": 1,
+            "name": "firstdown",
+            "display_name": "FirstDown PlayBook",
+            "support_email": "info@playbooktech.com",
+            "created_at": "2022-11-06T07:10:23.000000Z",
+            "updated_at": "2022-11-06T07:10:23.000000Z"
+        },
+        "tags": [
+            {
+                "id": 12,
+                "name": "College",
+                "tag_category_id": 4,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 15,
+                    "tag_id": 12,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 14,
+                "name": "Blank White",
+                "tag_category_id": 5,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 15,
+                    "tag_id": 14,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Tackle Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 15,
+                    "tag_id": 2,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 1,
+                "name": "Flag Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 15,
+                    "tag_id": 1,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "College Football Field - Mid-field",
+        "product_id": 1,
+        "img_orientation": 0,
+        "width": 1000,
+        "height": 750,
+        "active": 1,
+        "img_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/college-mid-field-landscape.svg?ts=1703926851",
+        "thumbnail_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/college-mid-field-landscape-thumbnail.png",
+        "thumbnail_2x_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/college-mid-field-landscape-thumbnail-2x.png",
+        "created_at": "2021-03-09T21:30:41.000000Z",
+        "updated_at": "2022-11-06T07:11:06.000000Z",
+        "product": {
+            "id": 1,
+            "name": "firstdown",
+            "display_name": "FirstDown PlayBook",
+            "support_email": "info@playbooktech.com",
+            "created_at": "2022-11-06T07:10:23.000000Z",
+            "updated_at": "2022-11-06T07:10:23.000000Z"
+        },
+        "tags": [
+            {
+                "id": 12,
+                "name": "College",
+                "tag_category_id": 4,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 25,
+                    "tag_id": 12,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 19,
+                "name": "Mid-field",
+                "tag_category_id": 5,
+                "user_id": null,
+                "order": 5,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 25,
+                    "tag_id": 19,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Tackle Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 25,
+                    "tag_id": 2,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 1,
+                "name": "Flag Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 25,
+                    "tag_id": 1,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "College Football Field - Red Zone",
+        "product_id": 1,
+        "img_orientation": 0,
+        "width": 1000,
+        "height": 750,
+        "active": 1,
+        "img_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/college-end-zone-landscape.svg?ts=1703926851",
+        "thumbnail_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/college-end-zone-landscape-thumbnail.png",
+        "thumbnail_2x_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/college-end-zone-landscape-thumbnail-2x.png",
+        "created_at": "2021-03-09T21:30:41.000000Z",
+        "updated_at": "2022-11-06T07:11:06.000000Z",
+        "product": {
+            "id": 1,
+            "name": "firstdown",
+            "display_name": "FirstDown PlayBook",
+            "support_email": "info@playbooktech.com",
+            "created_at": "2022-11-06T07:10:23.000000Z",
+            "updated_at": "2022-11-06T07:10:23.000000Z"
+        },
+        "tags": [
+            {
+                "id": 12,
+                "name": "College",
+                "tag_category_id": 4,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 21,
+                    "tag_id": 12,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 17,
+                "name": "Red Zone",
+                "tag_category_id": 5,
+                "user_id": null,
+                "order": 3,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 21,
+                    "tag_id": 17,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Tackle Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 21,
+                    "tag_id": 2,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 1,
+                "name": "Flag Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 21,
+                    "tag_id": 1,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "High School Football Field - Backed Up",
+        "product_id": 1,
+        "img_orientation": 0,
+        "width": 1000,
+        "height": 750,
+        "active": 1,
+        "img_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/high-school-backed-up-landscape.svg?ts=1703926851",
+        "thumbnail_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/high-school-backed-up-landscape-thumbnail.png",
+        "thumbnail_2x_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/high-school-backed-up-landscape-thumbnail-2x.png",
+        "created_at": "2021-03-09T21:30:40.000000Z",
+        "updated_at": "2022-11-06T07:11:06.000000Z",
+        "product": {
+            "id": 1,
+            "name": "firstdown",
+            "display_name": "FirstDown PlayBook",
+            "support_email": "info@playbooktech.com",
+            "created_at": "2022-11-06T07:10:23.000000Z",
+            "updated_at": "2022-11-06T07:10:23.000000Z"
+        },
+        "tags": [
+            {
+                "id": 11,
+                "name": "High School",
+                "tag_category_id": 4,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 3,
+                    "tag_id": 11,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 15,
+                "name": "Backed Up",
+                "tag_category_id": 5,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 3,
+                    "tag_id": 15,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Tackle Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 3,
+                    "tag_id": 2,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 1,
+                "name": "Flag Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 3,
+                    "tag_id": 1,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "High School Football Field - Blank",
+        "product_id": 1,
+        "img_orientation": 0,
+        "width": 1000,
+        "height": 750,
+        "active": 1,
+        "img_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/blank-landscape.svg?ts=1703926851",
+        "thumbnail_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/blank-landscape-thumbnail.png",
+        "thumbnail_2x_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/blank-landscape-thumbnail-2x.png",
+        "created_at": "2021-03-09T21:30:40.000000Z",
+        "updated_at": "2022-11-06T07:11:05.000000Z",
+        "product": {
+            "id": 1,
+            "name": "firstdown",
+            "display_name": "FirstDown PlayBook",
+            "support_email": "info@playbooktech.com",
+            "created_at": "2022-11-06T07:10:23.000000Z",
+            "updated_at": "2022-11-06T07:10:23.000000Z"
+        },
+        "tags": [
+            {
+                "id": 11,
+                "name": "High School",
+                "tag_category_id": 4,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 1,
+                    "tag_id": 11,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 14,
+                "name": "Blank White",
+                "tag_category_id": 5,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 1,
+                    "tag_id": 14,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Tackle Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 1,
+                    "tag_id": 2,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 1,
+                "name": "Flag Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 1,
+                    "tag_id": 1,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "High School Football Field - Mid-field",
+        "product_id": 1,
+        "img_orientation": 0,
+        "width": 1000,
+        "height": 750,
+        "active": 1,
+        "img_url": "./imgs/high-school-mid-field-landscape.svg",
+        "thumbnail_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/high-school-mid-field-landscape-thumbnail.png",
+        "thumbnail_2x_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/high-school-mid-field-landscape-thumbnail-2x.png",
+        "created_at": "2021-03-09T21:30:41.000000Z",
+        "updated_at": "2022-11-06T07:11:06.000000Z",
+        "product": {
+            "id": 1,
+            "name": "firstdown",
+            "display_name": "FirstDown PlayBook",
+            "support_email": "info@playbooktech.com",
+            "created_at": "2022-11-06T07:10:23.000000Z",
+            "updated_at": "2022-11-06T07:10:23.000000Z"
+        },
+        "tags": [
+            {
+                "id": 11,
+                "name": "High School",
+                "tag_category_id": 4,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 11,
+                    "tag_id": 11,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 19,
+                "name": "Mid-field",
+                "tag_category_id": 5,
+                "user_id": null,
+                "order": 5,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 11,
+                    "tag_id": 19,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Tackle Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 11,
+                    "tag_id": 2,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 1,
+                "name": "Flag Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 11,
+                    "tag_id": 1,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "High School Football Field - Red Zone",
+        "product_id": 1,
+        "img_orientation": 0,
+        "width": 1000,
+        "height": 750,
+        "active": 1,
+        "img_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/high-school-end-zone-landscape.svg?ts=1703926851",
+        "thumbnail_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/high-school-end-zone-landscape-thumbnail.png",
+        "thumbnail_2x_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/high-school-end-zone-landscape-thumbnail-2x.png",
+        "created_at": "2021-03-09T21:30:41.000000Z",
+        "updated_at": "2022-11-06T07:11:06.000000Z",
+        "product": {
+            "id": 1,
+            "name": "firstdown",
+            "display_name": "FirstDown PlayBook",
+            "support_email": "info@playbooktech.com",
+            "created_at": "2022-11-06T07:10:23.000000Z",
+            "updated_at": "2022-11-06T07:10:23.000000Z"
+        },
+        "tags": [
+            {
+                "id": 11,
+                "name": "High School",
+                "tag_category_id": 4,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 7,
+                    "tag_id": 11,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 17,
+                "name": "Red Zone",
+                "tag_category_id": 5,
+                "user_id": null,
+                "order": 3,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 7,
+                    "tag_id": 17,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Tackle Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 7,
+                    "tag_id": 2,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 1,
+                "name": "Flag Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 7,
+                    "tag_id": 1,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Professional Football Field - Backed Up",
+        "product_id": 1,
+        "img_orientation": 0,
+        "width": 1000,
+        "height": 750,
+        "active": 1,
+        "img_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/professional-backed-up-landscape.svg?ts=1703926851",
+        "thumbnail_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/professional-backed-up-landscape-thumbnail.png",
+        "thumbnail_2x_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/professional-backed-up-landscape-thumbnail-2x.png",
+        "created_at": "2021-03-09T21:30:41.000000Z",
+        "updated_at": "2022-11-06T07:11:06.000000Z",
+        "product": {
+            "id": 1,
+            "name": "firstdown",
+            "display_name": "FirstDown PlayBook",
+            "support_email": "info@playbooktech.com",
+            "created_at": "2022-11-06T07:10:23.000000Z",
+            "updated_at": "2022-11-06T07:10:23.000000Z"
+        },
+        "tags": [
+            {
+                "id": 13,
+                "name": "Professional",
+                "tag_category_id": 4,
+                "user_id": null,
+                "order": 2,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 31,
+                    "tag_id": 13,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 15,
+                "name": "Backed Up",
+                "tag_category_id": 5,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 31,
+                    "tag_id": 15,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Tackle Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 31,
+                    "tag_id": 2,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Professional Football Field - Blank",
+        "product_id": 1,
+        "img_orientation": 0,
+        "width": 1000,
+        "height": 750,
+        "active": 1,
+        "img_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/blank-landscape.svg?ts=1703926851",
+        "thumbnail_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/blank-landscape-thumbnail.png",
+        "thumbnail_2x_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/blank-landscape-thumbnail-2x.png",
+        "created_at": "2021-03-09T21:30:41.000000Z",
+        "updated_at": "2022-11-06T07:11:06.000000Z",
+        "product": {
+            "id": 1,
+            "name": "firstdown",
+            "display_name": "FirstDown PlayBook",
+            "support_email": "info@playbooktech.com",
+            "created_at": "2022-11-06T07:10:23.000000Z",
+            "updated_at": "2022-11-06T07:10:23.000000Z"
+        },
+        "tags": [
+            {
+                "id": 13,
+                "name": "Professional",
+                "tag_category_id": 4,
+                "user_id": null,
+                "order": 2,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 29,
+                    "tag_id": 13,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 14,
+                "name": "Blank White",
+                "tag_category_id": 5,
+                "user_id": null,
+                "order": 0,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 29,
+                    "tag_id": 14,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Tackle Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 29,
+                    "tag_id": 2,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Professional Football Field - Mid-field",
+        "product_id": 1,
+        "img_orientation": 0,
+        "width": 1000,
+        "height": 750,
+        "active": 1,
+        "img_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/professional-mid-field-landscape.svg?ts=1703926851",
+        "thumbnail_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/professional-mid-field-landscape-thumbnail.png",
+        "thumbnail_2x_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/professional-mid-field-landscape-thumbnail-2x.png",
+        "created_at": "2021-03-09T21:30:41.000000Z",
+        "updated_at": "2022-11-06T07:11:06.000000Z",
+        "product": {
+            "id": 1,
+            "name": "firstdown",
+            "display_name": "FirstDown PlayBook",
+            "support_email": "info@playbooktech.com",
+            "created_at": "2022-11-06T07:10:23.000000Z",
+            "updated_at": "2022-11-06T07:10:23.000000Z"
+        },
+        "tags": [
+            {
+                "id": 13,
+                "name": "Professional",
+                "tag_category_id": 4,
+                "user_id": null,
+                "order": 2,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 39,
+                    "tag_id": 13,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 19,
+                "name": "Mid-field",
+                "tag_category_id": 5,
+                "user_id": null,
+                "order": 5,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 39,
+                    "tag_id": 19,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Tackle Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 39,
+                    "tag_id": 2,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Professional Football Field - Red Zone",
+        "product_id": 1,
+        "img_orientation": 0,
+        "width": 1000,
+        "height": 750,
+        "active": 1,
+        "img_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/professional-end-zone-landscape.svg?ts=1703926851",
+        "thumbnail_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/professional-end-zone-landscape-thumbnail.png",
+        "thumbnail_2x_url": "https://playbook-tech-assets.s3.amazonaws.com/firstdown/fields/professional-end-zone-landscape-thumbnail-2x.png",
+        "created_at": "2021-03-09T21:30:41.000000Z",
+        "updated_at": "2022-11-06T07:11:06.000000Z",
+        "product": {
+            "id": 1,
+            "name": "firstdown",
+            "display_name": "FirstDown PlayBook",
+            "support_email": "info@playbooktech.com",
+            "created_at": "2022-11-06T07:10:23.000000Z",
+            "updated_at": "2022-11-06T07:10:23.000000Z"
+        },
+        "tags": [
+            {
+                "id": 13,
+                "name": "Professional",
+                "tag_category_id": 4,
+                "user_id": null,
+                "order": 2,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 35,
+                    "tag_id": 13,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 17,
+                "name": "Red Zone",
+                "tag_category_id": 5,
+                "user_id": null,
+                "order": 3,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 35,
+                    "tag_id": 17,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Tackle Football",
+                "tag_category_id": 1,
+                "user_id": null,
+                "order": 1,
+                "created_at": "2021-03-26T19:10:35.000000Z",
+                "updated_at": "2021-03-26T19:10:35.000000Z",
+                "pivot": {
+                    "taggable_id": 35,
+                    "tag_id": 2,
+                    "taggable_type": "App\\SportsField",
+                    "created_at": "2021-03-26T19:11:00.000000Z",
+                    "updated_at": "2021-03-26T19:11:00.000000Z"
+                }
+            }
+        ]
+    }
+]

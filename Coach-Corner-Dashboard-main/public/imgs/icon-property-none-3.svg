@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-property-none-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="FDPB-PE-Icons-Sprites-v01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-163.000000, -63.000000)" fill-rule="nonzero" id="PE-UI">
+            <g>
+                <g id="PROPERTIES" transform="translate(0.000000, 50.000000)">
+                    <g id="SHARED">
+                        <g id="icon-property-none-3" transform="translate(150.000000, 0.000000)">
+                            <rect id="boundaries" x="0" y="0" width="50" height="50"></rect>
+                            <path d="M16.7354398,17.7405127 C15.0326125,19.6775637 14,22.2181921 14,25 C14,31.0751322 18.9248678,36 25,36 C27.7827132,36 30.3240899,34.9667153 32.2613783,33.2628975 L16.7354398,17.7405127 Z M17.7351149,16.740188 L33.2614756,32.2629948 C34.9661403,30.3255037 36,27.7834873 36,25 C36,18.9248678 31.0751322,14 25,14 C22.2156074,14 19.6728428,15.0345323 17.7351149,16.740188 Z M25,37 C18.372583,37 13,31.627417 13,25 C13,18.372583 18.372583,13 25,13 C31.627417,13 37,18.372583 37,25 C37,31.627417 31.627417,37 25,37 Z" fill="#000000"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

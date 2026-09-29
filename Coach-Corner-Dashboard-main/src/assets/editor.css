@@ -1,0 +1,206 @@
+/* Editor Main Layout */
+.editor-main-layout {
+  --height-header: 74px;
+  --ani-speed: 300ms;
+  display: flex;
+  height: calc(100vh - var(--height-header));
+  height: calc(100dvh - var(--height-header));
+}
+.editor--content-inner {
+  display: block;
+  height: calc(100vh - var(--height-header));
+  height: calc(100dvh - var(--height-header));
+  overflow: hidden;
+  width: 100%;
+}
+
+.bottom--toggle {
+  display: none;
+}
+@media (min-width: 1025px) {
+  .bottom--toggle {
+    display: flex;
+  }
+  .main-sidebar--editor .user-card {
+    transition: background-color var(--ani-speed) linear,
+      padding-inline var(--ani-speed) linear;
+  }
+  .main-sidebar--editor .toggle-sidebar .user-card {
+    background-color: transparent;
+    padding-inline: 0;
+  }
+  .main-sidebar--editor .user-card div.text-base {
+    transition: all var(--ani-speed) linear;
+  }
+  .main-sidebar--editor .toggle-sidebar .user-card div.text-base {
+    width: 0;
+    overflow: hidden;
+  }
+  .main-sidebar--editor .sideBarItems .sideBarItem .sideBarTitle {
+    transition: all var(--ani-speed) linear;
+  }
+  .main-sidebar--editor
+    .toggle-sidebar
+    .sideBarItems
+    .sideBarItem
+    .sideBarTitle {
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+  }
+  .main-sidebar--editor .toggle-sidebar .sideBarItems .submenu {
+    display: none;
+  }
+  .main-sidebar--editor .toggle-sidebar .sideBarItem {
+    width: fit-content;
+    display: block;
+  }
+}
+/*Primary Header*/
+
+.editor-primary-header {
+  background: var(--colorThemePrimaryLightHeader);
+}
+
+/* Secondary Header*/
+.secondary-header-action > div {
+  padding: 0 8px;
+}
+.secondary-header-action > div:not(:last-child) {
+  border-right: 1px solid #eeeeee;
+}
+@media (max-width: 1199px) {
+  .secondary-header-action {
+    align-items: flex-end;
+  }
+  .secondary-header-action > div {
+    padding: 0 5px;
+  }
+  .secondary-header-action > div:not(:last-child) {
+    border-right: 0;
+  }
+  .secondary-header-action .zoom-fields button svg {
+    width: 24px;
+  }
+}
+
+/* Bottom Bar */
+.bottom-bar-btn {
+  width: 80px;
+  height: 80px;
+  font-size: 14px;
+}
+.bottom-bar-btn svg {
+  width: 24px;
+  height: 24px;
+}
+.editor-bottom-bar .second-part .type-player {
+  border-left: 1px solid #b7c9db;
+}
+
+.vaul-drawer {
+  max-width: calc(100% - var(--sidebar-width));
+  margin-left: auto;
+  box-shadow: 0 -1px 3px -1px rgba(0, 0, 0, 0.2); 
+}
+
+
+.vaul-sticky-close svg {
+  width: 20px;
+  height: 20px;
+}
+.vaul-sticky-close svg.icon-chevron-right {
+  width: 16px;
+  height: 16px;
+}
+.vaul-sticky-close .icon-close {
+  display: none;
+}
+.vaul-drawer:after {
+  content: none !important;
+}
+
+.symbol-button svg{
+  width:24px;
+  height:24px;
+}
+@media (max-width: 1024px) {
+  .vaul-drawer {
+    max-width: 100%;
+  }
+  .bottom-bar-btn {
+    width: 50px;
+    height: 50px;
+
+    padding: 5px;
+    gap: 0.2rem;
+  }
+  .bottom-bar-btn span {
+    font-size: 12px;
+    line-height: 1.1;
+  }
+  .bottom-bar-btn svg {
+    width: 16px;
+    height: 16px;
+  }
+}
+@media (max-width: 524px) {
+  .bottom-bar-btn {
+    width: 45px;
+    height: auto;
+    padding: 5px;
+    gap: 0.2rem;
+  }
+  .bottom-bar-btn span {
+    font-size: 10px;
+  }
+  .bottom-bar-btn svg {
+    width: 14px;
+    height: 14px;
+  }
+}
+@media(min-width:1280px){
+  .vaul-sticky-close {
+    background-image: url(https://res.cloudinary.com/ddkdvh5ps/image/upload/v1726561828/Union_1_m0r19t.svg);
+    background-repeat: no-repeat;
+    background-position: center top; /* Position the image at the top */
+    background-size: 100% auto; /* Ensure the image width fits the container */
+    background-color: transparent;
+    clip-path: inset(0 0 0% 0);
+  }
+}
+@media (max-width: 1279px) {
+  .vaul-sticky-close {
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: unset;
+    left: unset;
+  }
+  .vaul-sticky-close .icon-close {
+    width: 20px;
+    height: 20px;
+    display: inline;
+    fill: inherit;
+    position: absolute;
+    right: 20px;
+  }
+  .vaul-sticky-close .icon-close path {
+    stroke: black;
+  }
+  .vaul-sticky-close svg.icon-chevron-right {
+    display: none;
+  }
+  .vaul-drawer {
+    max-width: 100%;
+    max-height: 50vh;
+  }
+  .vaul-drawer-content{
+    height:100%;
+    overflow-y: auto;
+  }
+}

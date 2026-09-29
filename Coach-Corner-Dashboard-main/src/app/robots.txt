@@ -1,0 +1,4 @@
+# Coach Corner Dashboard in Next.js
+
+User-agent: *
+Disallow: /

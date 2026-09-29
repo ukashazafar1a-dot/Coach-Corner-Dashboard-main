@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="24px" viewBox="0 0 16 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-stop-dot-medium</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="FDPB-PE-Icons-Sprites-v01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-667.000000, -267.000000)" fill-rule="nonzero" id="PE-UI">
+            <g>
+                <g id="PROPERTIES" transform="translate(0.000000, 50.000000)">
+                    <g id="LINE" transform="translate(0.000000, 200.000000)">
+                        <g id="ENDPOINTS">
+                            <g id="icon-stop-dot-medium" transform="translate(650.000000, 0.000000)">
+                                <rect id="boundaries" x="0" y="0" width="50" height="50"></rect>
+                                <path d="M27,32.747965 L27,41 L23,41 L23,32.747965 C19.5495456,31.8598794 17,28.7276789 17,25 C17,20.581722 20.581722,17 25,17 C29.418278,17 33,20.581722 33,25 C33,28.7276789 30.4504544,31.8598794 27,32.747965 Z" id="stop-dot-medium" fill="#000000"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
